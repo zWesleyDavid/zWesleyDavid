@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=836FFF&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4191e1&height=120&section=header"/>
 
 ### Olá! Sou Wesley 👋
 
@@ -12,5 +12,4 @@
 
 ![Snake animation](https://github.com/zWesleyDavid/zWesleyDavid/blob/output/github-contribution-grid-snake.svg)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=836FFF&height=120&section=header"/>
 
