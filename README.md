@@ -5,10 +5,6 @@
 - 🌱 Atualmente aprendendo C e Python
 - 📚 Cursando Engenharia de Software
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zWesleyDavid&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=zWesleyDavid&show_icons=true&count_private=true&hide_border=true&title_color=007fff&icon_color=007fff&text_color=c9d1d9&bg_color=0d1117" alt="Wesley David github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zWesleyDavid&layout=compact&hide_border=true&title_color=007fff&text_color=007fff&bg_color=0d1117" />
