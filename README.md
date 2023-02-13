@@ -13,8 +13,7 @@
 
 <div style="display: inline_block"><br> 
   <img align="center" alt="Wesley-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
+  <img align="center" alt="Wesley-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 </div>
-
-![Snake animation](https://github.com/zWesleyDavid/zWesleyDavid/blob/output/github-contribution-grid-snake.svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007fff&height=120&section=footer"/>
