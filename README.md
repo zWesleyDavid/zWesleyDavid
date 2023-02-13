@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=836FFF&height=120&section=header"/>
+
 ### Olá! Sou Wesley 👋
 
 - 🔭 I’m currently working on ...
@@ -9,3 +11,6 @@
 </div>
 
 ![Snake animation](https://github.com/zWesleyDavid/zWesleyDavid/blob/output/github-contribution-grid-snake.svg)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=836FFF&height=120&section=header"/>
+
