@@ -2,7 +2,7 @@
 
 ### Olá! Sou Wesley 👋
 
-- 🌱 Atualmente aprendendo C e Python
+- 🌱 Atualmente aprendendo Java(POO)
 - 📚 Cursando Engenharia de Software
 
 <div align="center">  
