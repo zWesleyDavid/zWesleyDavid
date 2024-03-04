@@ -2,8 +2,8 @@
 
 ### Olá! Sou Wesley 👋
 
-- 🌱 Atualmente aprendendo Java(POO)
-- 📚 Cursando Engenharia de Software
+- 🌱 Atualmente aprendendo Node.js
+- 📚 Cursando Engenharia de Software/5º Periodo
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=zWesleyDavid&show_icons=true&count_private=true&hide_border=true&title_color=007fff&icon_color=007fff&text_color=c9d1d9&bg_color=0d1117" alt="Wesley David github stats" /> 
