@@ -15,6 +15,7 @@
   <img align="center" alt="Wesley-Python" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Wesley-Python" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Wesley-Python" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="Wesley-Python" height="70" width="80" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Wesley-Python" height="70" width="80" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Wesley-Python" height="70" width="80" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg">
   <img align="center" alt="Wesley-Python" height="70" width="80" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
