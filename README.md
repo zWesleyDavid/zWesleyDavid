@@ -19,6 +19,7 @@
   <img align="center" alt="Wesley-Python" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Wesley-Python" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg">
   <img align="center" alt="Wesley-Python" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Wesley-Python" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg">
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007fff&height=120&section=footer"/>
