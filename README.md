@@ -21,22 +21,6 @@
   <img align="center" alt="Wesley-Python" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
 </div>
 
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
-
 ### 🚀 Tecnologias que uso atualmente
 
 <p>
